@@ -12,3 +12,9 @@ img {
   display: flex;
   column-gap: 32px;
 }
+.subtitle{
+  font-size: 160%;
+}
+.main-paragraf{
+  font-size: 100%;
+}
