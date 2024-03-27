@@ -16,7 +16,8 @@ img {
   font-size: 160%;
 }
 .main-paragraf{
-  font-size: 111%;
+  font-size: 100%;
+  margin-bottom: 16px;
 }
 .photo{
   img-size: 360px;
