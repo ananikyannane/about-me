@@ -1,11 +1,14 @@
 .column {
   width: 33.33%;
-  float: left;
 }
 img {
   max-width: 100%;
 }
 .column2 {
   width: 50%;
-  float: left;
+}
+
+.flex-row {
+  display: flex;
+  column-gap: 32px;
 }
